@@ -10,18 +10,14 @@
 
 <br/>
 
-<!-- BADGES ROW -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Pushpendra28-HP&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Pushpendra28-HP?label=Followers&style=for-the-badge&color=8A2BE2" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Pushpendra28-HP?label=Stars&style=for-the-badge&color=8A2BE2" alt="Stars" />
-</p>
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
----
+
 
 ## 👋 About Me
 
@@ -44,7 +40,7 @@ const pushpendraSingh = {
 - 💼 Experienced in building **Employee Management Systems, REST APIs & Dashboards**
 - ⚡ I love solving real-world problems through **clean and scalable code**
 - 🎯 2026 Goal: Master **System Design** & contribute to **Open Source**
-- 📫 Reach me at: **your.email@gmail.com**
+- 📫 Reach me at: **hpsikarwar23@gmail.com**
 - 💬 Ask me about: **React, Node.js, Express, MySQL, MongoDB, REST APIs**
 
 <br clear="right"/>
