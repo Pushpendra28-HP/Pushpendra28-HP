@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Pushpendra%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20MySQL%20%C2%B7%20MongoDB&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Pushpendra%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20Express.js%20%C2%B7%20MongoDB&descAlignY=55&descSize=18" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="#">
