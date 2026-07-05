@@ -297,37 +297,9 @@ HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░�
 
 </div>
 
-### 🧩 Competitive Programming
-<div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
 
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/Rating-Rookie-brightgreen?style=for-the-badge" />
 
-<img src="https://static.hackerrank.com/assets/brand_assets/hackerrank_logo.svg" width="180"/>
-
-</div>
-
-> Replace `YOUR_LEETCODE_USERNAME` and Codeforces handle with your actual usernames. Add your HackerRank profile badge from your HackerRank profile settings.
-
-### 🏅 Holopin Badges
-<div align="center">
-<img src="https://holopin.me/Pushpendra28-HP" alt="Holopin badges"/>
-</div>
-
----
-
-## 🎓 Certifications
-
-| Certificate | Issuing Platform | Year |
-|---|---|---|
-| Full Stack Web Development | Placeholder Platform | 2025 |
-| JavaScript (ES6+) | Placeholder Platform | 2025 |
-| React.js Development | Placeholder Platform | 2025 |
-| Node.js Backend Development | Placeholder Platform | 2026 |
-
----
 
 ## 🧭 Experience Timeline
 
