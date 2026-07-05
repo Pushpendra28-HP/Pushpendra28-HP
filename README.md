@@ -39,7 +39,6 @@ const pushpendraSingh = {
 - 🌱 Currently learning **TypeScript, NestJS, Docker, AWS & System Design**
 - 💼 Experienced in building **Employee Management Systems, REST APIs & Dashboards**
 - ⚡ I love solving real-world problems through **clean and scalable code**
-- 🎯 2026 Goal: Master **System Design** & contribute to **Open Source**
 - 📫 Reach me at: **hpsikarwar23@gmail.com**
 - 💬 Ask me about: **React, Node.js, Express, MySQL, MongoDB, REST APIs**
 
@@ -113,19 +112,6 @@ const pushpendraSingh = {
 
 </div>
 
-### 🐍 Contribution Snake Animation
-<div align="center">
-<img src="https://raw.githubusercontent.com/Pushpendra28-HP/Pushpendra28-HP/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> ⚙️ To enable the snake animation, set up the **GitHub Actions workflow** shared in the "Automation" section below. It auto-generates on every push.
-
-### 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pushpendra28-HP&theme=radical&no-frame=true&row=1&column=7" />
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -324,10 +310,7 @@ HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░�
 - [x] Build REST APIs with Node.js & Express.js
 - [ ] Become proficient in **TypeScript**
 - [ ] Learn **NestJS** for scalable backend architecture
-- [ ] Master **Docker** & containerization
 - [ ] Deploy applications on **AWS**
-- [ ] Study **System Design** fundamentals
-- [ ] Contribute to 5+ Open Source projects
 - [ ] Build a SaaS product end-to-end
 
 ---
@@ -360,8 +343,6 @@ I'm actively looking to contribute to open-source projects related to **React, N
 ### 🚀 2026 Goals
 - Land a Full Stack Developer role at a growing product company
 - Contribute to major open-source repositories
-- Learn System Design & scalable architecture
-- Get AWS Certified
 
 </td>
 </tr>
@@ -374,50 +355,25 @@ I'm actively looking to contribute to open-source projects related to **React, N
 - 🧠 I debug faster with a cup of coffee in hand
 - 🌙 Most productive coding hours: **late night**
 - 🎮 When not coding, I enjoy gaming & tech YouTube
-- 📚 Currently reading up on **System Design**
 - 🏗️ I love converting Figma designs into pixel-perfect UI
 
 ---
 
-## 🎧 Now Playing
-
-<div align="center">
-<img src="https://novatorem-Pushpendra28-HP.vercel.app/api/spotify" alt="Spotify Now Playing" />
-</div>
-
-> 🎵 Optional widget — deploy your own instance via **[novatorem](https://github.com/novatorem/novatorem)** (free, Vercel-hosted) and connect your Spotify account.
-
----
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM_USERNAME)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_DEVTO_USERNAME)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@YOUR_HASHNODE_USERNAME)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushpendrasingh28/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hpsikarwar23@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im_pushpendra28_)
+
 
 </div>
 
 ---
 
-## ☕ Support My Work
 
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/Pushpendra28-HP)
-
-</div>
-
----
-
-<div align="center">
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." — *Cory House*
 
