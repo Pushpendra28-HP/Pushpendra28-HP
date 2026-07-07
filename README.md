@@ -99,19 +99,6 @@ const pushpendraSingh = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pushpendra28-HP&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpendra28-HP&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushpendra28-HP&theme=radical&hide_border=true&background=0D1117" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushpendra28-HP&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
-
-</div>
-
 
 ## 🚀 Featured Projects
 
