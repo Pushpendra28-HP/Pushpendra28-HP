@@ -245,13 +245,7 @@ A set of hands-on React projects covering hooks, state management, and API integ
 
 ---
 
-## 💬 Random Dev Quote
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</div>
-
----
 
 ## ⏱️ Coding Activity
 
